@@ -111,3 +111,11 @@ h3 {
     display: block;
     justify-content: center;
 }
+
+#video-anuncio {
+    margin: 0 auto;
+    display: block;
+    padding-top: 60px;
+    width: 750px;
+  
+}
