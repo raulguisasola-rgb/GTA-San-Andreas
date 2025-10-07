@@ -36,6 +36,10 @@ nav a:hover {
     color: black;
 }
 
+#titulo-principal:hover {
+    color: blanchedalmond;
+}
+
 h2 {
   text-align: center;
   font-size: 40px;
@@ -119,3 +123,4 @@ h3 {
     width: 750px;
   
 }
+
